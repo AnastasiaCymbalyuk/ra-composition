@@ -1,0 +1,35 @@
+.box_cards {
+    display: flex;
+    border: 1px solid gray;
+    width: 250px;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.img_cards {
+    background-color: gray;
+    height: 150px;
+    color: white;
+    text-align: center;
+    line-height: 150px;
+}
+
+.box_content_cards {
+    padding: 20px;
+    color: rgb(69, 69, 69);
+}
+
+.title_cards {
+    margin: 0;
+    font-weight: normal;
+}
+
+.btn_cards {
+    background-color: rgb(32, 112, 250);
+    color: white;
+    width: 130px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 16px;
+}
